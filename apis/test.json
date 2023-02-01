@@ -1,4 +1,4 @@
 {
-	message : "test",
-	message : "worked"
+	message1 : "test",
+	message2 : "worked"
 }
